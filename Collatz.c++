@@ -29,7 +29,7 @@ std::pair<int, int> collatz_read (std::istream& r) {
 // ------------
 int collatz_eval (int i, int j) {
 	
-/*
+	/*
 		i is the beginning of the range, inclusive
 		j is the end of the range, inclusive
 		return the max cycle length in the range [i, j]
@@ -41,6 +41,8 @@ int collatz_eval (int i, int j) {
  
 	int myMin;
 	int myMax;
+
+	//First efficiency-provider: Cutting range in half if possible
  
 	if (i <= j) {
 		int temp = j / 2;
