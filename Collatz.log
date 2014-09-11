@@ -1,0 +1,35 @@
+commit 6e44a0056c3ba456d17132deb88edbfa6b29f45f
+Author: Luis Delgado <ldelgado@cs.utexas.edu>
+Date:   Wed Sep 10 19:01:47 2014 -0500
+
+    Adding Doxygen documentation
+
+commit dc319ab9ea753d741b61bf85f9902c4fc3807b55
+Author: Luis Delgado <ldelgado@cs.utexas.edu>
+Date:   Wed Sep 10 18:17:37 2014 -0500
+
+    adding RunCollatz code, makefile and gitignore
+
+commit 172d2b2c90146e116d557ac0dbdbe3d368ee5053
+Author: Luis Delgado <ldelgado@cs.utexas.edu>
+Date:   Wed Sep 10 18:16:00 2014 -0500
+
+    adding unit tests and results
+
+commit e3e83184d80748d3f3a5670387204b92d74f68dc
+Author: Luis Delgado <ldelgado@cs.utexas.edu>
+Date:   Wed Sep 10 18:15:07 2014 -0500
+
+    Adding acceptance tests
+
+commit 48ce2094a0cb424a26cc066717f741aa6871ab15
+Author: Luis Delgado <ldelgado@cs.utexas.edu>
+Date:   Wed Sep 10 18:13:15 2014 -0500
+
+    adding online judge Collatz
+
+commit 95c9ecff8303715dfd19c40426404b89ae98fb08
+Author: Luis Delgado <ldelgado@cs.utexas.edu>
+Date:   Wed Sep 10 18:12:29 2014 -0500
+
+    initial commit
